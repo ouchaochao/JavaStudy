@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f448e6d-b05b-4770-afc2-6a42931e588d" name="Default Changelist" comment="" />
+    <list default="true" id="5f448e6d-b05b-4770-afc2-6a42931e588d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/SchoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/SchoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/SchoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/SchoolTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +25,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Qm2PZR5JK2QvnwT382TsreivhJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -135,12 +149,23 @@
       <workItem from="1570548286026" duration="2010000" />
       <workItem from="1570715804663" duration="3541000" />
       <workItem from="1570882310579" duration="2110000" />
-      <workItem from="1571061799510" duration="3795000" />
+      <workItem from="1571061799510" duration="7319000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -154,6 +179,11 @@
           <url>file://$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/catTest.java</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/SchoolTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
