@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f448e6d-b05b-4770-afc2-6a42931e588d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/school/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/SchoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/SchoolTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/school/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/SchoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/SchoolTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Qm2PZR5JK2QvnwT382TsreivhJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -37,6 +32,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,9 +46,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="SchoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.SchoolTest" />
+  <component name="RunManager" selected="Application.AnimalTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.AnimalTest" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -64,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.add" />
+    <configuration name="SchoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.SchoolTest" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ouchaochao.*" />
+          <option name="PATTERN" value="cn.ouchaochao.testPackage.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.SchoolTest" />
         <item itemvalue="Application.catTest" />
         <item itemvalue="Application.sort" />
         <item itemvalue="Application.max" />
-        <item itemvalue="Application.add" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +145,9 @@
       <workItem from="1570548286026" duration="2010000" />
       <workItem from="1570715804663" duration="3541000" />
       <workItem from="1570882310579" duration="2110000" />
-      <workItem from="1571061799510" duration="7319000" />
+      <workItem from="1571061799510" duration="7415000" />
+      <workItem from="1571142374634" duration="114000" />
+      <workItem from="1571230536228" duration="4347000" />
     </task>
     <servers />
   </component>
@@ -161,7 +159,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -184,6 +184,11 @@
           <url>file://$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/SchoolTest.java</url>
           <line>18</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/AnimalTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
