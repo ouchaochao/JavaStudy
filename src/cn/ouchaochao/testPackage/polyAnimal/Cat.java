@@ -33,4 +33,8 @@ public class Cat extends Animal {
     public static void say() {
         System.out.println("Cat say");
     }
+
+    public void playBall(){
+        System.out.println("play ball");
+    }
 }
