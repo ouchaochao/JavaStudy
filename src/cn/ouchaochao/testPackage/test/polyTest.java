@@ -11,7 +11,7 @@ public class polyTest {
         父类引用指向子类实例，可以调用子类重写父类方法以及父类派生的方法，无法调用子类特有方法
         小类转型为大类
          */
-        Animal one = new Animal();
+        Animal one = new Cat();
         Animal two = new Cat();
         Animal three = new Dog();
 
