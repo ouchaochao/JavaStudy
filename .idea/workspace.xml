@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5f448e6d-b05b-4770-afc2-6a42931e588d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/polyAnimal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/polyAnimal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/polyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/polyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/polyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouchaochao/testPackage/test/polyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/tel/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/tel/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/tel/INet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/tel/INet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/telTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProject/cn/ouchaochao/testPackage/test/telTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,9 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.telTest">
-    <configuration name="SingletionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.SingletionTest" />
+  <component name="RunManager" selected="Application.anonymoudPersonTest">
+    <configuration name="anonymoudPersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.anonymoudPersonTest" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="objTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.objTest" />
+    <configuration name="personTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.personTest" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anonymoudPersonTest" />
+        <item itemvalue="Application.personTest" />
         <item itemvalue="Application.telTest" />
         <item itemvalue="Application.masterTest" />
         <item itemvalue="Application.polyTest" />
-        <item itemvalue="Application.SingletionTest" />
-        <item itemvalue="Application.objTest" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +158,8 @@
       <workItem from="1571836708113" duration="4115000" />
       <workItem from="1571890334123" duration="2201000" />
       <workItem from="1571929865227" duration="3318000" />
+      <workItem from="1572530742598" duration="1912000" />
+      <workItem from="1572748825088" duration="3938000" />
     </task>
     <servers />
   </component>
