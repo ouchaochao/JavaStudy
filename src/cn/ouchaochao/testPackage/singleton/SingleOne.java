@@ -1,4 +1,4 @@
-package cn.ouchaochao.testPackage.Singleton;
+package cn.ouchaochao.testPackage.singleton;
 
 //饿汉式：在类加载时就创建实例
 public class SingleOne {

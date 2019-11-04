@@ -1,7 +1,7 @@
 package cn.ouchaochao.testPackage.test;
 
-import cn.ouchaochao.testPackage.Singleton.SingleOne;
-import cn.ouchaochao.testPackage.Singleton.SingleTwo;
+import cn.ouchaochao.testPackage.singleton.SingleOne;
+import cn.ouchaochao.testPackage.singleton.SingleTwo;
 
 public class SingletionTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.ouchaochao.testPackage.Singleton;
+package cn.ouchaochao.testPackage.singleton;
 
 //懒汉式：类内实例对象创建时并不直接初始化，直到第一次调用get方法时才完成初始化操作
 public class SingleTwo {
