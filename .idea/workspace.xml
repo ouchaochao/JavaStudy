@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GoodsTest">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="CatSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.CatSetTest" />
       <module name="JavaProject" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoticeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.test.NoticeTest" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.queue.Test" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ouchaochao.testPackage.test.*" />
+          <option name="PATTERN" value="cn.ouchaochao.testPackage.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.stringDemo.StringDemo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouchaochao.testPackage.bank.Test" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ouchaochao.testPackage.stringDemo.*" />
+          <option name="PATTERN" value="cn.ouchaochao.testPackage.bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.GoodsTest" />
         <item itemvalue="Application.DictDemo" />
         <item itemvalue="Application.CatSetTest" />
-        <item itemvalue="Application.NoticeTest" />
-        <item itemvalue="Application.StringDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,8 @@
       <workItem from="1572748825088" duration="8764000" />
       <workItem from="1572876680910" duration="2344000" />
       <workItem from="1572922490374" duration="2800000" />
-      <workItem from="1573052411747" duration="1244000" />
+      <workItem from="1573052411747" duration="1788000" />
+      <workItem from="1573315548667" duration="2210000" />
     </task>
     <servers />
   </component>
@@ -206,6 +207,11 @@
           <url>file://$PROJECT_DIR$/src/cn/ouchaochao/testPackage/wrapper/WrapperOne.java</url>
           <line>25</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/ouchaochao/testPackage/bank/Test.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
